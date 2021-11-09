@@ -15,7 +15,7 @@ I would say I am currently at the step 4 of the Engineering Design Process -- <b
  - include video links related to each units
  - how to approach AP test questions for different types of question and different units
 
-My next step would be to start going deeper into learning about CS50. Specifically, I would go deeper into learning Python as I am considering on using Python for this project since Python is more productive compare to other programming language and easier to read the code which is helpful ( especially with syntax errors ).
+My next step would be to start going deeper into learning about CS50. Specifically, I would go deeper into learning Python as I am considering on using Python for this project since Python is more productive compare to other programming language and it is easier to read the code. These pros are helpful, especially with avoding syntax errors.
 
 ## Skills
 The skills I used during this is <b>Creativity</b> and <b>Communication</b>.

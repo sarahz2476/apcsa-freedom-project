@@ -1,5 +1,5 @@
 # Entry 1
-##### 11/07/2021
+##### 11/08/2021
 
 ## Content
 My partner, Nina, and I decided to use CS50 as our tool to make a web application. The web app will be a study guide for our AP Computer Science A (APCSA) course. We will mainly focus on week 6 to 9 topics (from CS50) in order to create our APCSA study guide web app. I think it will be a good review whenever we add the units' content into our project. Our MVP for the app so far is for it to have tabs of APCSA units and inside each tabs, it will contain contents of each units. We are considering to add little quizzes to each units and link videos from Youtube about that unit. For each unit, we have thought about including tips on how to approach certain types of question on the AP test. We can add a unit about reviwing the AP test that gives tips on taking the APCSA test, like how a student can structure their APCSA free-response questions. 

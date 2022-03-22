@@ -127,9 +127,11 @@ Notice that the new layout you are coding is between `{% block content %}` and `
 
 #### Results:
 Home page:
+
 ![home](/pics/home.png)
 
 Unit 1 page (not done) but you can see that the side bar is there evenr though we have not phyically code it in that specific template.
+
 ![unit1](/pics/unit1.png)
 
 ## Engineering Design Process/ Skills

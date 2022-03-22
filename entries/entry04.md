@@ -126,10 +126,12 @@ The `block` control statement defines the place where the derived templates can 
 Notice that the new layout you are coding is between `{% block content %}` and `{% endblock %}` and remember that it shoudl alway be in between `{% block content %}` and `{% endblock %}` for new layouts. In the beginning I kept getting error even though I check the syntax and everything look fine. The Flask Mega Tutorial has exact format. I then realized it was because I include `{% endfor %}` which is NOT suppose to be included.
 
 #### Results:
-Home page:
+*Home page*:
+
 <img width="1437" alt="Screen Shot 2022-03-21 at 9 46 37 PM" src="https://user-images.githubusercontent.com/56265188/159397436-8bdefbb1-56cb-46b5-8881-4e4e2899bd6d.png">
 
-Unit 1 page (not done) but you can see that the side bar is there evenr though we have not phyically code it in that specific template.
+*Unit 1 page (not done) but you can see that the side bar is there, even though we have not phyically code it in that specific template.*
+
 <img width="1433" alt="Screen Shot 2022-03-21 at 9 47 10 PM" src="https://user-images.githubusercontent.com/56265188/159397386-fe4673ae-de2b-4a2b-bb20-2d5338c5cf95.png">
 
 ## Engineering Design Process/ Skills

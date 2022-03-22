@@ -127,12 +127,10 @@ Notice that the new layout you are coding is between `{% block content %}` and `
 
 #### Results:
 Home page:
-
-![home](/pics/home.png)
+<img width="1437" alt="Screen Shot 2022-03-21 at 9 46 37 PM" src="https://user-images.githubusercontent.com/56265188/159397436-8bdefbb1-56cb-46b5-8881-4e4e2899bd6d.png">
 
 Unit 1 page (not done) but you can see that the side bar is there evenr though we have not phyically code it in that specific template.
-
-![unit1](/pics/unit1.png)
+<img width="1433" alt="Screen Shot 2022-03-21 at 9 47 10 PM" src="https://user-images.githubusercontent.com/56265188/159397386-fe4673ae-de2b-4a2b-bb20-2d5338c5cf95.png">
 
 ## Engineering Design Process/ Skills
 In the Engineering Design Process, I'm currently at **Creating the Prototype**. I've been learning my tool while applying what I learn to make my MVP. Flask has definitely made building my web application easier and more time efficient. As I finish up my MVP, I hope I can explore more of Flask and use it to incorprate little quizzes into my freedom project. 
